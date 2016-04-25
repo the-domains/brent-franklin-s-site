@@ -1,8 +1,7 @@
 name: "Brent Franklin's Site"
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.8866605
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.856668782653287
-  brandStrength: 0.2784515
-  rhythmicContrast: 0.6672927553299814
   brandColors:
     - '#8EC4E7'
     - '#B36E69'
     - '#000D16'
     - '#4581BB'
     - '#FBE280'
+  brandStrength: 0.2784515
   lightness: 0.3877902417443693
+  saturation: 0.856668782653287
+  rhythmicContrast: 0.6672927553299814
 purpose: []
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-typography_spectrum: 0.8866605
