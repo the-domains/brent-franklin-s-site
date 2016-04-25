@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brent Franklin's Site]]></title>
         <description><![CDATA[Brent Franklin's Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brent-franklin-s-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 06:19:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 17:38:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brent-franklin-s-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LinkedIn Profile]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2dd65a8-d091-44d9-8ce8-6c7b3b5728ea.jpg">]]></description>
+            <link>http://linkedin.com/in/brent-franklin-4a778163</link>
+            <guid isPermaLink="false">1dd4ebce-4fab-4b30-8e08-0e691cfb61ca</guid>
+            <pubDate>Mon, 25 Apr 2016 17:38:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Brent Franklin's Personal Site</p>]]></description>
-            <link>undefinedbrent-franklins-personal-site/index.html</link>
+            <link>https://thegrid.ai/brent-franklin-s-site/brent-franklins-personal-site/index.html</link>
             <guid isPermaLink="false">c56c32a7-6516-4abf-ac19-13599458b6e4</guid>
             <pubDate>Mon, 25 Apr 2016 06:19:39 GMT</pubDate>
         </item>
