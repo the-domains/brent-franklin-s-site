@@ -1,4 +1,7 @@
-layout_spectrum: 0.9211754
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -17,21 +20,18 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.856668782653287
-  brandStrength: 0.2784515
-  rhythmicContrast: 0.6672927553299814
+  saturation: 0.8566688
+  brandStrength: 0.5079291
+  lightness: 0.4920709
   brandColors:
     - '#8EC4E7'
     - '#B36E69'
     - '#000D16'
     - '#4581BB'
     - '#FBE280'
-  lightness: 0.3877902417443693
-typography_spectrum: 0.8866605
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0.7929105
+typography_spectrum: 0.7402052
+layout_spectrum: 0.5303172
 analytics:
   twitter: null
   google: null
