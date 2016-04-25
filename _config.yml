@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: "Brent Franklin's Site"
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.980159199796617
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.856668782653287
-  brandStrength: 0.25
-  rhythmicContrast: 0.6672927553299814
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0.25
   lightness: 0.3877902417443693
+  saturation: 0.856668782653287
+  rhythmicContrast: 0.6672927553299814
 purpose: []
-favicon: null
-name: "Brent Franklin's Site"
-typography_spectrum: 0.980159199796617
