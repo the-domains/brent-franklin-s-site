@@ -1,0 +1,28 @@
+name: "Brent Franklin's Site"
+favicon: null
+layout_spectrum: 0.5164754532743245
+typography_spectrum: 0.980159199796617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21620274591259658
+  lightness: 0.38779024174436927
+  saturation: 0.856668782653287
+  rhythmicContrast: 0.6672927553299814
+purpose: []
