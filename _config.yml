@@ -1,5 +1,4 @@
-favicon: null
-name: "Brent Franklin's Site"
+layout_spectrum: 0.6805037
 opengraph:
   image: null
   type: null
@@ -18,23 +17,24 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8566688
+  saturation: 0
   brandStrength: 1
-  lightness: 0.4920709
+  lightness: 0.4846082
   brandColors:
     - '#000000'
     - '#A8AAA9'
     - '#373938'
     - '#585A59'
     - '#FCFEFD'
-  rhythmicContrast: 0.7929105
+  rhythmicContrast: 1
 typography_spectrum: 0.7402052
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.6805037
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: "Brent Franklin's Site"
