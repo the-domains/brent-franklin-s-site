@@ -1,6 +1,6 @@
 name: "Brent Franklin's Site"
 favicon: null
-layout_spectrum: 0.5164754532743245
+layout_spectrum: 1
 typography_spectrum: 0.980159199796617
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.21620274591259658
+  brandStrength: 0.25
   lightness: 0.38779024174436927
   saturation: 0.856668782653287
   rhythmicContrast: 0.6672927553299814
