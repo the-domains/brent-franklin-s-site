@@ -1,28 +1,40 @@
-name: "Brent Franklin's Site"
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.980159199796617
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.856668782653287
+  brandStrength: 0.25
+  rhythmicContrast: 0.6672927553299814
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.25
-  lightness: 0.38779024174436927
-  saturation: 0.856668782653287
-  rhythmicContrast: 0.6672927553299814
+  lightness: 0.3877902417443693
 purpose: []
+favicon: null
+name: "Brent Franklin's Site"
+typography_spectrum: 0.980159199796617
