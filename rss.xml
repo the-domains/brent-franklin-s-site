@@ -4,7 +4,7 @@
         <description><![CDATA[Brent Franklin's Site]]></description>
         <link>http://brentfranklin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 17:54:55 GMT</lastBuildDate>
         <atom:link href="http://brentfranklin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Brent Franklin | LinkedIn]]></title>
@@ -12,13 +12,6 @@
             <link>http://linkedin.com/in/brent-franklin-4a778163</link>
             <guid isPermaLink="false">1dd4ebce-4fab-4b30-8e08-0e691cfb61ca</guid>
             <pubDate>Mon, 25 Apr 2016 17:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Brent Franklin's Personal Site</p>]]></description>
-            <link>http://brentfranklin.xyz/brent-franklins-personal-site/index.html</link>
-            <guid isPermaLink="false">c56c32a7-6516-4abf-ac19-13599458b6e4</guid>
-            <pubDate>Mon, 25 Apr 2016 06:19:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
