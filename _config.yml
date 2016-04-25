@@ -1,7 +1,5 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: "Brent Franklin's Site"
 opengraph:
   image: null
   type: null
@@ -31,10 +29,12 @@ color:
     - '#FBE280'
   rhythmicContrast: 0.7929105
 typography_spectrum: 0.7402052
-layout_spectrum: 0.5303172
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: "Brent Franklin's Site"
+layout_spectrum: 0.6805037
